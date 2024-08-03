@@ -16,12 +16,23 @@ git clone https://github.com/Vikas-rawat1/simon-says-game.git
 cd simon-says-game
 ````
 
+## Tech Stack
 
-## Acknowledgements
-Thanks to the contributors and libraries that made this project possible.
+- HTML: Standard markup language for structuring the content of the game.
 
-## 🚀 About Me
-I'm Vikas, a web developer with a passion for crafting engaging and user-friendly web experiences. Currently pursuing a BCA (Bachelor of Computer Applications), I specialize in front-end development using React and Tailwind CSS. My goal is to blend innovative design with efficient code to create impactful applications.
+- CSS: Stylesheet language used for designing and laying out the game's visual elements.
+
+- JavaScript: Programming language that powers the game's logic and interactivity.
+
+## Screenshot 
+
+![Screenshot 2024-08-03 211050](https://github.com/user-attachments/assets/40acb117-313d-4a4d-a649-ba90675b8185)
+
+![Screenshot 2024-08-03 211119](https://github.com/user-attachments/assets/1f65989c-a435-4e27-8573-455f2f5f0bc8)
+
+![Screenshot 2024-08-03 211204](https://github.com/user-attachments/assets/40ec9bf9-55ed-493e-80dc-bfec230f6dc5)
+
+
 
 
 ## 🔗 Links
@@ -41,15 +52,11 @@ I'm Vikas, a web developer with a passion for crafting engaging and user-friendl
 
 
 
-## Screenshot 
-
-![Screenshot 2024-08-03 211050](https://github.com/user-attachments/assets/40acb117-313d-4a4d-a649-ba90675b8185)
-
-![Screenshot 2024-08-03 211119](https://github.com/user-attachments/assets/1f65989c-a435-4e27-8573-455f2f5f0bc8)
-
-![Screenshot 2024-08-03 211204](https://github.com/user-attachments/assets/40ec9bf9-55ed-493e-80dc-bfec230f6dc5)
+# Hi, I'm Vikas! 👋
 
 
+## 🚀 About Me
+I'm Vikas, a web developer with a passion for crafting engaging and user-friendly web experiences. Currently pursuing a BCA (Bachelor of Computer Applications), I specialize in front-end development using React and Tailwind CSS. My goal is to blend innovative design with efficient code to create impactful applications.
 
 
 
@@ -58,16 +65,9 @@ I'm Vikas, a web developer with a passion for crafting engaging and user-friendl
 
 
 
-## Tech Stack
 
-- HTML: Standard markup language for structuring the content of the game.
-
-- CSS: Stylesheet language used for designing and laying out the game's visual elements.
-
-- JavaScript: Programming language that powers the game's logic and interactivity.
-
-# Hi, I'm Vikas! 👋
-
+## Acknowledgements
+Thanks to the contributors and libraries that made this project possible.
 
 ## Feedback
 
