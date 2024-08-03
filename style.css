@@ -5,6 +5,8 @@
 }
 body{
   text-align: center;
+  margin: auto;
+  margin-top: 10vw;
 }
 
 .btn-container {
